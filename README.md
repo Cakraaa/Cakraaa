@@ -1,16 +1,23 @@
-### Hi there 👋
+# Cakra Darussalam Prayitno
 
-<!--
-**Cakraaa/Cakraaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub portfolio! I am a Computer Science student in the 6th semester at Gunadarma University, currently actively engaged in independent study through the Bangkit program.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Name: Cakra Darussalam Prayitno  
+University: Gunadarma University  
+Major: Computer Science  
+Semester: 6  
+
+I have a solid understanding of various programming languages, including Java, Python, HTML, CSS, Golang, and currently learning Kotlin for Android development.
+
+## Social Media
+
+- [LinkedIn Profile]([linkedin-link](https://www.linkedin.com/in/cakra-d/))
+- [Instagram Profile](https://www.instagram.com/cakraaa.d/)
+
+## Contact
+
+- Email: cakradarussalam@gmail.com
+
+Feel free to explore my projects and get in touch!
