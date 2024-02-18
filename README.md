@@ -13,7 +13,7 @@ I have a solid understanding of various programming languages, including Java, P
 
 ## Social Media
 
-- [LinkedIn Profile]([linkedin-link](https://www.linkedin.com/in/cakra-d/))
+- [LinkedIn Profile]([https://www.linkedin.com/in/cakra-d/))
 - [Instagram Profile](https://www.instagram.com/cakraaa.d/)
 
 ## Contact
